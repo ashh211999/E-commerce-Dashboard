@@ -1,1 +1,2 @@
-# E-commerce-Dashboard
+This project focuses on analyzing an e-commerce dataset to uncover key business insights related to sales performance, customer behavior, cancellations, returns, and fulfillment operations. The analysis was conducted in Google Colab using Python (Pandas, Matplotlib, Seaborn) for data cleaning, transformation, and exploratory analysis. 
+A fully interactive Power BI dashboard was built to visually communicate the findings with clear KPIs, trend analysis, and category-wise performance breakdowns.
